@@ -1,0 +1,185 @@
+Wiki-API Public
+Wikipedia API that serves readers on articles the wish to read , create an article, update an article and delete articles.
+javascript
+accessibility
+api-rest
+ JavaScript  1 Apache License 2.0 Updated 19 hours ago
+Products-e-commerce-site Public
+Creating a simple e-commerce site with minimal features
+ HTML  1 Updated 3 days ago
+Social-Icon-Hover-Animation Public
+A simple Social Medial Icon Hover Animation for your website contact lists.
+ CSS  1 Apache License 2.0 Updated 4 days ago
+All-notes-in-one Public
+A note app built and hosted on blockchain locally
+ JavaScript  1 Apache License 2.0 Updated 10 days ago
+dbank-web3.0-CI Public
+Integrating a simple compound interest using ICP blockchain. Allowing user to deposit and while their interest accumulates , they can make withdrawal so far their balance is positive.
+nodejs
+javascript
+web3-dapp
+motoko-language
+ JavaScript  1 Updated 12 days ago
+DKill-token Public
+Creating my cryptocurrency token
+javascript
+css
+html
+reactjs
+web3-dapp
+motoko-language
+ JavaScript  1 Updated 13 days ago
+Text-glow-animation Public
+CSS text glow animation
+ CSS  1 MIT License Updated 20 days ago
+hello-to-web-3.0 Public
+getting started in web 3.0
+ JavaScript  1 Apache License 2.0 Updated 22 days ago
+Css-playground Public
+Css gradient and grid playground
+css
+playground
+grid
+html5
+ HTML  1 Apache License 2.0 Updated 23 days ago
+authenticating-signUp-logIn Public
+BackEnd authentication of users to signUp and logIn with database incorporated.
+dotenv
+mongodb
+mongoose
+expressjs
+jwt-authentication
+bcrypt-nodejs
+ JavaScript  1 Apache License 2.0 Updated 25 days ago
+Web-3.0-journey Public
+Documenting my progress learning Web 3.0 and my projects on web 3.0
+ 1 Apache License 2.0 Updated 26 days ago
+kellsonphilips Public
+Just me and I portfolio
+github
+resume
+readme
+portfolio
+ 1 Apache License 2.0 Updated 27 days ago
+motoko Public
+Forked from dfinity/motoko
+Simple high-level language for writing Internet Computer canisters
+ OCaml  1  55 Apache License 2.0 Updated on 4 Aug
+Newsletter Public
+My newsletter signup app
+nodejs
+javascript
+css
+heroku
+git
+html
+html5
+ HTML  1 Apache License 2.0 Updated on 26 Jul
+todolist-v1 Public
+A simple todolist web app Version-1
+nodejs
+javascript
+css3
+expressjs
+ejs-templates
+ CSS  1 Apache License 2.0 Updated on 24 Jul
+Dating-site Public
+Forked from AjeshOfficial/Dating-site
+Dating-Site for friends
+ JavaScript  2 Updated on 23 Jul
+My-Secret-web-app Public
+A simple web app to implement app authentication and encryption of database.
+javascript
+node
+encryption
+authentication
+ejs
+node-js
+ejs-express
+ JavaScript  2 Apache License 2.0 Updated on 21 Jul
+Menu-Hover-Animation Public
+Beautiful Menu hover animation with pure CSS and jQuery for your web app projects.
+javascript
+css
+jquery
+css-animations
+htlm
+ CSS  1 Apache License 2.0 Updated on 21 Jul
+Landingpage Public
+A simple landing page.
+css
+html
+html5
+landing-page
+css3
+ HTML  1 MIT License Updated on 17 Jul
+To-do-list-v2 Public
+To do list v2 with database functioning and more tools for multiple task management.
+nodejs
+javascript
+css
+html
+mongodb
+mongoose
+expressjs
+ JavaScript  1 MIT License Updated on 16 Jul
+html-form Public
+A simple HTML form
+html5
+css3
+css-grid
+ HTML  1 MIT License Updated on 13 Jul
+CV Public
+A simple HTML webpages
+html5
+webpages
+ HTML  1 MIT License Updated on 12 Jul
+CSS-HTML-Lamp-Animation Public
+A simple lamp animation using HTML, CSS and jQuery.
+javascript
+css
+html
+jquery
+css-animations
+ CSS  3 MIT License Updated on 12 Jul
+Dropdown-Menu Public
+Drop down menu with css
+css
+html
+html5
+css-grid
+menu
+grid-layout
+css-gradients
+ CSS  1 MIT License Updated on 11 Jul
+Detect-browser-and-OS Public
+A simple JavaScript project to detect browsers and Operating Systems.
+ JavaScript  1 MIT License Updated on 11 Jul
+Transparent-Login-Form Public
+A Transparent login form with View or Hide password functionality using javascript.
+ CSS  1 MIT License Updated on 11 Jul
+Hamburger-Menu Public
+A simple hamburger menu
+html
+html5
+css3
+css-animations
+ CSS  1 MIT License Updated on 4 Jul
+plaintextoffenders Public
+Forked from plaintextoffenders/plaintextoffenders
+https://plaintextoffenders.com offenders list
+ 38 Apache License 2.0 Updated on 30 May 2021
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
