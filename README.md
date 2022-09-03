@@ -41,8 +41,7 @@ I am a **Full Stack Web App Developer and data scientist** <img src="https://med
   - :speaking_head: In free times, I join my passionate friends in twitter space discussing about web technologies, tools, software engineering and general discussions.
 
 <!--- <div align="right" > <a href="https://app.daily.dev/Pascal"><img src="https://api.daily.dev/devcards/d6eb72ba60474f9785f589a67f06639c.png?r=waj" width="400" alt="Okereke Pascal Dev Card"/></a> </div> -->
-  
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/okereke-pascal-a3579b128/)
+
 
 
 
