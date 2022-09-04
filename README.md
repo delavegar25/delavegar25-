@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/okereke pascal-a3579b128/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   
   <a href="https://twitter.com/okereke pascal">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -26,10 +22,10 @@
 ## :man_technologist: About Me :
 
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=delavegar_" target="blank"><img src="https://img.shields.io/twitter/follow/delavegar_?logo=twitter&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
 
 
-I am a **Full Stack Web App Developer and data scientist** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Nigeria.
+I am a **Full Stack Web App Developer and data science enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Nigeria.
 
   
   - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
