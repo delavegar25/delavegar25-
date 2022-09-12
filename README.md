@@ -24,8 +24,6 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=delavegar_" target="blank"><img src="https://img.shields.io/twitter/follow/delavegar_?logo=twitter&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/intent/follow?screen_name=Okereke Pascal_" target="blank"><img src="https://img.shields.io/linkedin/follow/Okereke Pascal?logo=linkedin&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
-
 
 I am a **Backend Developer and AI/ML Engr** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Nigeria.
 
